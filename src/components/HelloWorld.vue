@@ -1,6 +1,6 @@
 <template>
     <div class="service">
-        <el-button type="primary">确定</el-button>
+        <el-button type="primary">确定1</el-button>
         <el-button>取消1</el-button>
     </div>
 </template>
